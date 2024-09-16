@@ -1,1 +1,1 @@
-
+Clustering is an unsupervised method utilized to categorize patterns by grouping observations, data items, or feature vectors into distinct clusters. One of its key characteristics is its independence from predefined classes, making it an "unsupervised" technique. As a result, clustering finds widespread use in various fields, including taxonomy, image processing, information retrieval, data mining, and more.
